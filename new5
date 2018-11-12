@@ -1,2 +1,6 @@
 This is my new file on branch feat1
+
 This line added from Master
+
+This line added from feat1
+>>>>>>> feat1
